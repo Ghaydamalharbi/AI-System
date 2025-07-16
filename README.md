@@ -38,8 +38,8 @@ The goal is to minimize user confusion, reduce decision fatigue, and enhance cla
 
 | File | Description |
 |------|-------------|
-| `Final_Research.pdf` | The full scientific paper (Arabic) |
-| `UseCaseDiagram.jpeg` | Use case / system flow diagram |
+| `Cognitive AI systems thesis .pdf` — Full documented research (Arabic)
+|`IMG_0923.jpeg` — Use Case Diagram (system flow)
 | `ACI_Logo.png` | Visual project identity |
 | `QR_Code.png` | Shareable access QR |
 
