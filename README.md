@@ -83,7 +83,5 @@ You can reach me via email or LinkedIn https://www.linkedin.com/in/ghayda-alharb
 
 
 
-## 🔗 Quick Access
-
-📎 GitHub QR Code  
-![QR](QR_Code.png)
+##  Access the full project here:
+[ GitHub Repository: AI-System](https://github.com/Ghaydamalharbi/AI-System)
