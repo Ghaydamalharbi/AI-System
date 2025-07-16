@@ -82,7 +82,6 @@ Feel free to fork this repo, suggest improvements, or collaborate.
 You can reach me via email or LinkedIn https://www.linkedin.com/in/ghayda-alharbi-50998812a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 
-
 ## 🔗 Project Repository
 
 Explore the full project here:  
