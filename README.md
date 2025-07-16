@@ -84,5 +84,9 @@ You can reach me via email or LinkedIn https://www.linkedin.com/in/ghayda-alharb
 
 ## 🔗 Project Repository
 
+📎 Scan the QR code to open the GitHub repository:
+
+![QR Code](QR_Code.png)
+
 Explore the full project here:  
 [🔗 https://github.com/Ghaydamalharbi/AI-System](https://github.com/Ghaydamalharbi/AI-System)
