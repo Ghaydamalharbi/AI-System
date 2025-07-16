@@ -38,11 +38,10 @@ The goal is to minimize user confusion, reduce decision fatigue, and enhance cla
 
 | File | Description |
 |------|-------------|
-| `Cognitive AI systems thesis .pdf` — Full documented research (Arabic)
-|`IMG_0923.jpeg` — Use Case Diagram (system flow)
-| `ACI_Logo.png` | Visual project identity |
-| `QR_Code.png` | Shareable access QR |
+| ##  Included Files
 
+- [ Cognitive AI Systems Thesis (PDF)](https://github.com/Ghaydamalharbi/AI-System/blob/main/Cognitive%20AI%20systems%20thesis%20.pdf)
+- [ System Use Case Diagram](https://github.com/Ghaydamalharbi/AI-System/blob/main/IMG_0923.jpeg)
 
 
 ##  Real-Life Use Cases
