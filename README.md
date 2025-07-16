@@ -36,10 +36,6 @@ The goal is to minimize user confusion, reduce decision fatigue, and enhance cla
 
 ##  What’s Inside
 
-| File | Description |
-|------|-------------|
-| ##  Included Files
-
 - [ Cognitive AI Systems Thesis (PDF)](https://github.com/Ghaydamalharbi/AI-System/blob/main/Cognitive%20AI%20systems%20thesis%20.pdf)
 - [ System Use Case Diagram](https://github.com/Ghaydamalharbi/AI-System/blob/main/IMG_0923.jpeg)
 
@@ -62,7 +58,7 @@ This work is officially registered with the **Saudi Authority for Intellectual P
 
 This cognitive AI system is designed with a scalable architecture that opens the door for future integration with **Meta-Intelligence** technologies.
 
-Planned future developments include:
+Planned future developments include
 
 -   Self-reflective feedback loops to evaluate the quality of decisions made
 -   Adaptive learning from past user interactions and errors
