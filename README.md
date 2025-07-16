@@ -83,5 +83,7 @@ You can reach me via email or LinkedIn https://www.linkedin.com/in/ghayda-alharb
 
 
 
-##  Access the full project here:
-[ GitHub Repository: AI-System](https://github.com/Ghaydamalharbi/AI-System)
+## 🔗 Project Repository
+
+Explore the full project here:  
+[🔗 https://github.com/Ghaydamalharbi/AI-System](https://github.com/Ghaydamalharbi/AI-System)
